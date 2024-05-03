@@ -42,3 +42,10 @@ button {
 form {
   margin: 20px;
 }
+
+.container {
+  position: absolute;
+  padding-top: 5%;
+  left: 40%;
+  font-size: larger;
+}
